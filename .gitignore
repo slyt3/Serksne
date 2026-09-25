@@ -1,0 +1,17 @@
+# Originalios nuotraukos – laikomos lokaliai (repozitorija vieša)
+Nuotraukos/
+
+# Vietiniai įrankiai ir laikini failai
+node_modules/
+_tools/pries-po.jpg
+_tools/lqip.json
+_tools/*.png
+
+# Claude Code skillai ir eskizai
+.claude/
+skills-lock.json
+_kryptys/
+
+# Sistema
+Thumbs.db
+.DS_Store

@@ -1,0 +1,3 @@
+Newsreader, Hanken Grotesk, IBM Plex Mono – SIL Open Font License 1.1
+https://openfontlicense.org
+Šriftai laikomi lokaliai (be Google Fonts užklausų), latin + latin-ext rinkiniai.
